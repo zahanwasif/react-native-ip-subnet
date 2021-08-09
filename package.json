@@ -1,11 +1,11 @@
 {
-	"name": "ip",
+	"name": "react-native-ip-subnet",
 	"version": "1.1.5",
 	"author": "Zahan Wasif",
-	"homepage": "https://github.com/indutny/node-ip",
+	"homepage": "https://github.com/zahanwasif/react-native-ip-subnet.git",
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/indutny/node-ip.git"
+		"url": "https://github.com/zahanwasif/react-native-ip-subnet.git"
 	},
 	"main": "lib/ip",
 	"devDependencies": {
